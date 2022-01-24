@@ -1,0 +1,316 @@
+body{
+    background-color: rgb(230, 216, 199);
+}
+.cointain{
+    height: 400px;
+}
+
+  h3{
+    font-family: 'Roboto', sans-serif;
+  } 
+
+.pt{
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px ;
+}
+h1{
+    font-size: 80px;
+}
+.head{
+    padding-top: 40px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+}
+
+.rounded-pills{border-radius: 30px;
+
+    border: none;
+    height: 50px;
+    width: 200px;
+    color: #fa8e35;
+    background-color: rgb(250, 250, 250);
+    font-family: 'Roboto', sans-serif;
+    
+}
+    
+
+    
+    
+    .rounded-pill{
+        border: none;
+        height: 50px;
+        width: 200px;
+        color: rgb(32, 28, 224);
+        background-color: rgb(248, 205, 180);
+        font-family: 'Roboto', sans-serif;
+        
+    }
+    .btn-areae{
+        padding-top: 90px;
+        padding-left: 30px;
+    }
+
+    
+.btn-area{
+    padding-top: 40px;
+}
+.single-pricingg{
+    border-radius: 30px;
+    height: 530px;
+    width: 350px;
+    padding-top:50px;
+background-color:#fa8e35;
+
+box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
+  .single-pricing h1{
+    font-family: 'Roboto', sans-serif;
+    
+font-size: 50px;
+  }
+  .single-pricingg h1{
+    font-family: 'Roboto', sans-serif;
+    
+    font-size: 50px;
+  }
+  .single-pricingg h2{
+      font-size: 40px;
+      font: bold;
+      font-family: 'Roboto', sans-serif;
+  }
+  .single-pricingg p{
+      font-size: 20px;
+      
+  }
+ 
+  
+  .single-pricinge h1{
+    font-family: 'Roboto', sans-serif;
+    
+    font-size: 50px;
+  }
+  .single-pricinge h1{
+    font-family: 'Roboto', sans-serif;
+    
+    font-size: 50px;
+  }
+  .single-pricinge h2{
+      font-size: 40px;
+      font: bold;
+      font-family: 'Roboto', sans-serif;
+  }
+  .single-pricinge p{
+      font-size: 20px;
+      
+  }
+  .single-pricinge h1{
+    font-family: 'Roboto', sans-serif;
+    
+    font-size: 50px;
+  }
+  .single-pricinge h2{
+      font-size: 40px;
+      font: bold;
+      font-family: 'Roboto', sans-serif;
+  }
+  .single-pricinge p{
+      font-size: 20px;
+      
+  }
+  .single-pricing h1{
+    font-family: 'Roboto', sans-serif;
+    
+    font-size: 50px;
+  }
+  .single-pricing h2{
+      font-size: 40px;
+      font: bold;
+      font-family: 'Roboto', sans-serif;
+  }
+  .single-pricing p{
+      font-size: 20px;
+      
+  }
+  
+
+
+.single-pricing{
+    height: 400px;
+    width: 350px;
+    padding-top: 130px;
+}
+.fa-check-circle{
+    color: rgb(32, 61, 224);
+}
+.single-pricinge{
+    height: 500px;
+    width: 350px;
+    padding-left: 90px;
+    padding-top: 130px;}
+
+    .pt{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .rounded-pill text{
+        font-size: 9px;
+    }
+    .event-img img{
+        border-radius:10px;
+        height: 350px;
+        width: 600px;
+      
+        margin-top: 80px;
+
+ 
+    }
+    
+    #faq ul {
+        text-align: left;
+    }
+    #faq h1 {
+        color: #131212;
+        margin-bottom: 30px;
+    }
+    #faq h2 {
+        color: #131212;
+        font-family: 'hm_light', sans-serif;
+        font-size: 20px;
+        text-align: left;
+        line-height: 34px;
+        padding: 15px 15px 0;
+        text-transform: none;
+        letter-spacing: 1px;
+        font-weight: 600;
+        display: block;
+        margin:0;
+        cursor: pointer;
+        transition: .2s;
+    }
+    #faq p {
+        color: rgb(22, 2, 2);
+        text-align: left;
+        font-family: 'hm_light', sans-serif;
+        font-size: 14px;
+        line-height: 1.45;
+        position: relative;
+        overflow: hidden;
+        max-height: 250px;
+        will-change: max-height;
+        contain:layout;
+        display: inline-block;
+        opacity: 1;
+        transform: translate(0,0);
+        margin: 5px 50px 0 15px;
+        transition: .3s opacity, .6s max-height;
+        hyphens: auto;
+        -webkit-hyphens:auto;
+        -ms-hyphens:auto;
+        z-index: 2;
+        
+    }
+    #faq ul {
+        list-style: none;
+        perspective: 900;
+        padding: 0;
+        margin:0;
+    }
+    #faq ul li {
+        position: relative;
+        overflow: hidden;
+        padding: 0;
+        margin: 0;
+        background: hsl(0, 0%, 100%);
+        box-shadow: 0 3px 10px -2px rgba(0,0,0,0.1);
+        -webkit-tap-highlight-color: transparent;
+        border-radius: 4px;
+    }
+    #faq ul li + li {
+        margin-top: 15px;
+    }
+    #faq ul li:last-of-type {
+        padding-bottom: 0;
+    }
+    #faq ul li i {
+        position: absolute;
+        transform: translate(-6px, 0);
+        margin-top: 28px;
+        right: 15px;
+    }
+   
+    
+    #faq ul li i:before {
+        transform: translate(2px, 0) rotate(45deg);
+    }
+    #faq ul li i:after {
+        transform: translate(-2px, 0) rotate(-45deg);
+    }
+    #faq ul li input[type=checkbox] {
+        position: absolute;
+        cursor: pointer;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        opacity: 0;
+        touch-action: manipulation;
+    }
+    #faq ul li input[type=checkbox]:checked ~ h2 {
+        color: rgb(10, 1, 1);
+    }
+    #faq ul li input[type=checkbox]:checked ~ p {
+        margin: 0;
+        max-height: 0;
+        transition: .3s;
+        opacity: 0;
+    }
+    #faq ul li input[type=checkbox]:checked ~ i:before {
+        transform: translate(2px, 0) rotate(45deg);
+        background: #fff;
+    }
+    #faq ul li input[type=checkbox]:checked ~ i:after {
+        transform: translate(-2px, 0) rotate(-45deg);
+        background: #fff;
+    }
+    .transition, p, ul li i:before, ul li i:after {
+        transition: all 0.3s;}
+    .row{
+        padding-top: 50px;
+        padding-left: 100px;
+        margin-bottom: 70px;
+    }
+    .text-info{
+        margin-bottom: 30px;
+    }
+    
+    footer {
+        height: 350px;
+        padding: 20px;
+        background-color:#0A0826;
+        color: white;
+        text-emphasis-color: rgb(211, 210, 210);
+      }
+      .footer-text{
+          padding-top: 70px;
+          padding-left: 20px;
+      }
+      .fs-5{
+          padding-left: 20px;
+      }
+      .pad{
+          padding-left: 400px;
+         
+      }
+     
+         
+      .play img{
+          width: 200px;
+          height: 90px;
+      }
+      .apple img{
+        width: 180px;
+        height: 90px;
+        padding-left: 20px;
+        padding-bottom: 30px;
+
+      }
+      
