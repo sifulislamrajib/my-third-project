@@ -61,6 +61,8 @@ p{ font-family: 'Roboto', sans-serif;
     
 }
 .single-pricingg{
+    position: relative;
+    overflow: hidden;
     border-radius: 30px;
     height: 530px;
     width: 350px;
@@ -78,6 +80,22 @@ font-size: 50px;
     font-family: 'Roboto', sans-serif;
     
     font-size: 50px;
+  }
+  .single-pricingg::after {
+
+        content: "Best";
+        
+        position: absolute;
+        
+        top: 4px; right: -34px;
+        
+        transform: rotate(40deg);
+        
+        padding: 10px 48px;
+        
+        font-weight: bold; background: #0b4fe2;
+        
+        color: #fff;
   }
   .single-pricingg h2{
       font-size: 40px;
